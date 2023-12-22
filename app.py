@@ -14,7 +14,7 @@ async def on_chat_start():
         [
             (
                 "system",
-                "You're a very knowledgeable historian who provides accurate and eloquent answers to historical questions.",
+                "You're a very knowledgeable Software Engineer.",
             ),
             ("human", "{question}"),
         ]
